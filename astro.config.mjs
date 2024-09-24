@@ -7,5 +7,5 @@ import tailwind from '@astrojs/tailwind';
 export default defineConfig({
   integrations: [tailwind()],
   site: 'https://davidcortesdev/github.io',
-  base: 'astro_project'
+  base: 'astro-project'
 });
